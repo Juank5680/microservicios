@@ -16253,3 +16253,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.docx4j:do
 2021-07-12 14:33:07,703 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-12 14:33:07,704 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-07-12 14:33:07,706 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-12 14:33:07,726 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-12 14:33:07,732 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-12 14:33:07,732 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-12 14:33:07,732 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-12 15:39:51,867 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.config:microservicios-config-server:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-config-server\pom.xml.
+2021-07-12 15:44:28,096 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-12 15:44:28,096 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-12 15:44:28,097 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
