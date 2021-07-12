@@ -1,0 +1,40 @@
+package com.prueba.microservicios.app.foto.services;
+
+import java.util.Optional;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.prueba.microservicios.app.foto.models.entity.Foto;
+import com.prueba.microservicios.app.foto.models.repository.FotoRepository;
+
+@Service
+public class FotoServiceImpl implements FotoService {
+
+	@Autowired
+	private FotoRepository repository;
+
+	@Override
+	public Foto save(Foto foto) {
+		return repository.save(foto);
+	}
+
+	@Override
+	public Optional<Foto> findFotoById(String id) {
+		return repository.findById(id);
+	}
+
+	@Override
+	public Iterable<Foto> findAll() {
+		return repository.findAll();
+	}
+
+	@Override
+	public void deleteById(String id) {
+		repository.deleteById(id);
+	}
+	
+	@Override
+	public Foto update(Foto foto) {
+		return repository.save(foto);
+	}
+
+}

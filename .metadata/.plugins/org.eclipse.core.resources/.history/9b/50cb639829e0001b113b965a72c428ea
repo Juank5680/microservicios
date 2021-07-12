@@ -1,0 +1,126 @@
+package com.prueba.microservicios.app.foto;
+
+import static org.hamcrest.CoreMatchers.is;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertNull;
+import static org.junit.jupiter.api.Assertions.assertSame;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.fail;
+import static org.mockito.Mockito.doNothing;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+import org.assertj.core.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.Mockito;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.web.server.ResponseStatusException;
+
+import com.prueba.microservicios.app.foto.models.entity.Foto;
+import com.prueba.microservicios.app.foto.models.repository.FotoRepository;
+import com.prueba.microservicios.app.foto.services.FotoServiceImpl;
+
+@SpringBootTest
+public class FotoServiceTest {
+	
+	@Mock
+	private FotoRepository repository;
+	
+	@InjectMocks
+	private FotoServiceImpl service;
+	
+	@Autowired
+	private FotoServiceImpl service2;
+	
+	private static final String ID = "1";
+	private static final String BASE64 = "TWFuIGlzIGRpc3Rpbmd1aX";
+	
+	@BeforeEach
+	public void setUp() {
+		service = new FotoServiceImpl(repository);
+	}
+	
+	@Test
+	public void consultarFotoPorIdTest() {
+		//Preparación
+		Foto foto = Foto.builder().id(ID).datosBase64(BASE64).build();
+		Mockito.when(repository.findById(ID)).thenReturn(Optional.of(foto));
+		
+		//Prueba
+		Foto fotoPrueba = service.findFotoById(ID).get();
+		
+		//Verificacion
+		Assertions.assertThat(fotoPrueba.getDatosBase64()).isEqualTo(BASE64);
+	}
+	
+	@Test
+	public void consultarFotoPorIdErrorTest() {
+		//Preparación
+		Foto foto = Foto.builder().id(ID).datosBase64(BASE64).build();
+		Mockito.when(repository.findById(ID)).thenReturn(Optional.of(foto));
+		
+		//Preuba - verificación
+		assertThrows(ResponseStatusException.class, ()->{
+			service.findFotoById("2");
+            });
+	}
+	
+	@Test
+	public void guardarFotoTest() {
+		//Preparación
+		Foto foto = Foto.builder().id(ID).datosBase64(BASE64).build();
+		Mockito.when(repository.save(foto)).thenReturn(foto);
+		
+		//Prueba
+		Foto fotoPrueba = repository.save(foto);
+		
+		//Verificación
+		Assertions.assertThat(fotoPrueba.getId()).isEqualTo(ID);
+	}
+	
+	@Test
+	public void obtenerFotosTest() {
+		//Preparación
+		Foto foto = Foto.builder().id(ID).datosBase64(BASE64).build();
+		List<Foto> fotos = new ArrayList<>();
+		fotos.add(foto);
+		Mockito.when(repository.findAll()).thenReturn(fotos);
+		
+		//Prueba
+		Iterable<Foto> fotosPrueba = service.findAll();
+		
+		//Verificación
+		Assertions.assertThat(fotosPrueba).isNotEmpty();
+	}
+	
+	@Test
+	public void eliminarFotoPorIdTest() {
+		//Preparación
+		Foto foto = Foto.builder().id(ID).datosBase64(BASE64).build();
+		
+		Foto fotoPrueba = service2.save(foto);
+		
+		Mockito.when(repository.findById(ID).isPresent()).thenReturn(false);
+		
+		boolean isExistBeforeDelete = service2.findFotoById(ID).isPresent();
+		
+		service2.deleteById(fotoPrueba.getId());
+		
+		assertThrows(ResponseStatusException.class, ()->{
+			service.findFotoById(ID);
+            });	
+		
+		assertTrue(isExistBeforeDelete);
+	}
+	
+	
+
+}
