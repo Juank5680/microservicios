@@ -18145,3 +18145,10 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2021-07-13 14:37:15,062 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-13 14:37:15,062 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-07-13 14:37:15,062 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 14:43:13,251 [Worker-48: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 14:43:13,756 [Worker-48: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 14:43:14,267 [Worker-48: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 14:47:05,404 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 14:47:05,405 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 14:47:05,405 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 14:47:05,420 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
