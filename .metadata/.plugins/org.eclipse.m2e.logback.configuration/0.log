@@ -17497,3 +17497,475 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-07-13 09:47:50,822 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-13 09:47:50,822 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-07-13 09:47:50,823 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 09:47:50,835 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 09:47:50,838 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 09:47:50,838 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 09:47:50,839 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 09:59:38,651 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 09:59:38,652 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 09:59:38,659 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 09:59:38,688 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 09:59:38,693 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 09:59:38,693 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 09:59:38,693 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:04:39,602 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:04:39,602 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:04:39,604 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:04:39,616 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:04:39,619 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:04:39,619 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:04:39,619 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:05:47,337 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:05:47,338 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:05:47,339 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:05:47,349 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:05:47,352 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:05:47,352 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:05:47,352 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:06:29,462 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:06:29,462 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:06:29,464 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:06:29,473 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:06:29,476 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:06:29,476 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:06:29,476 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:06:36,998 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:06:36,998 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:06:36,999 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:06:37,008 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:06:37,012 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:06:37,012 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:06:37,012 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:07:22,427 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:07:22,427 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:07:22,429 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:07:22,437 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:07:22,439 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:07:22,439 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:07:22,440 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:09:30,145 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:09:30,146 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:09:30,147 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:09:30,160 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:09:30,164 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:09:30,164 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:09:30,164 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:09:52,544 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:09:52,544 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:09:52,546 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:09:52,554 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:09:52,557 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:09:52,557 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:09:52,557 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:10:55,404 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:10:55,404 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:10:55,406 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:10:55,414 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:10:55,417 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:10:55,417 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:10:55,417 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:11:45,493 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:11:45,493 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:11:45,495 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:11:45,504 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:11:45,507 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:11:45,507 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:11:45,507 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:13:33,310 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:13:33,310 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:13:33,313 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:13:33,334 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:13:33,356 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:13:33,357 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:13:33,357 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:31:16,234 [Worker-60: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:31:16,809 [Worker-60: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:31:17,362 [Worker-60: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:32:00,718 [Worker-60: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:32:01,325 [Worker-60: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:32:02,024 [Worker-60: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:33:48,850 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 10:33:49,607 [Worker-72: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:33:50,449 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:33:50,450 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:33:50,453 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:33:50,454 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:33:50,456 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:33:50,456 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:33:50,456 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:34:14,082 [Worker-64: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:34:14,501 [Worker-64: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:34:15,063 [Worker-64: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:34:15,564 [Worker-64: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:38:20,384 [Worker-75: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: unexpected character in markup - (position: END_TAG seen ...</dependency>\n\n\t\t<-... @88:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected character in markup - (position: END_TAG seen ...</dependency>\n\n\t\t<-... @88:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1525)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2021-07-13 10:38:20,959 [Worker-73: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: unexpected character in markup - (position: END_TAG seen ...</dependency>\n\n\t\t<-... @88:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected character in markup - (position: END_TAG seen ...</dependency>\n\n\t\t<-... @88:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1525)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1302)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2021-07-13 10:38:47,235 [Worker-76: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/microservicios-clientes/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-07-13 10:38:47,831 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 10:38:48,674 [Worker-73: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:39:37,419 [Worker-77: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:1.5.3-rc.2 is missing, no dependency information available
+2021-07-13 10:39:37,494 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 10:39:37,521 [Worker-77: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:39:37,914 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:1.5.3-rc.2 is missing, no dependency information available
+2021-07-13 10:39:38,016 [Worker-76: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:39:39,262 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:39:39,263 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:39:39,265 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:39:39,266 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:39:39,267 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:39:39,268 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:39:39,268 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:39:41,103 [Worker-74: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:1.5.3-rc.2 is missing, no dependency information available
+2021-07-13 10:39:41,298 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:39:42,109 [Worker-74: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/1.5.3-rc.2/spring-cloud-starter-netflix-hystrix-1.5.3-rc.2-sources.jar
+2021-07-13 10:39:42,118 [Worker-74: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-hystrix:1.5.3-rc.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-hystrix:jar:sources:1.5.3-rc.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-07-13 10:44:29,860 [Worker-77: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 10:44:30,308 [Worker-77: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:44:31,077 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:44:31,077 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:44:31,080 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:44:31,081 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:44:31,083 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:44:31,083 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:44:31,083 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:44:33,293 [Worker-81: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:44:33,376 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:44:33,376 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:44:33,376 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:44:33,388 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:44:33,394 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:44:33,394 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:44:33,394 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:47:27,501 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 10:47:28,026 [Worker-83: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:47:28,811 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:47:28,811 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:47:28,813 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:47:28,813 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 10:47:28,816 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:47:28,816 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:47:28,816 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:48:06,316 [Worker-74: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 10:48:06,441 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:48:06,442 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:48:06,443 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 10:48:06,481 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 10:48:06,483 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 10:48:06,483 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 10:48:06,483 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 10:48:13,107 [Worker-84: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:48:13,665 [Worker-84: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 10:48:14,242 [Worker-84: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:00:57,925 [Worker-90: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:00:58,496 [Worker-90: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:00:59,065 [Worker-90: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:03:06,368 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:03:06,369 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:03:06,370 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:03:06,381 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:03:06,384 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:03:06,384 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:03:06,384 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:03:16,065 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-07-13 11:03:16,602 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:03:16,994 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:03:17,821 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicios-clientes/src/main/java
+2021-07-13 11:03:17,821 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicios-clientes/src/main/resources
+2021-07-13 11:03:17,822 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicios-clientes/src/main/resources
+2021-07-13 11:03:17,823 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicios-clientes/src/test/java
+2021-07-13 11:03:18,948 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-07-13 11:03:20,949 [Worker-96: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:03:21,050 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:03:21,050 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:03:21,051 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:03:21,069 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:03:21,080 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:03:21,080 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:03:21,080 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:03:26,504 [Worker-96: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:03:27,069 [Worker-96: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:03:27,633 [Worker-96: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:05:29,956 [Worker-101: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:05:30,401 [Worker-101: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:05:31,138 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:05:31,138 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:05:31,141 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:05:31,141 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:05:31,143 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:05:31,144 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:05:31,144 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:05:32,861 [Worker-105: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:05:32,940 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:05:32,940 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:05:32,941 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:05:32,951 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:05:32,957 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:05:32,957 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:05:32,957 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:05:55,910 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-07-13 11:05:56,452 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:05:56,889 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:05:57,679 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicios-clientes/src/main/java
+2021-07-13 11:05:57,680 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicios-clientes/src/main/resources
+2021-07-13 11:05:57,680 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicios-clientes/src/main/resources
+2021-07-13 11:05:57,681 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicios-clientes/src/test/java
+2021-07-13 11:05:58,724 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-07-13 11:06:00,452 [Worker-106: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:06:00,575 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:06:00,576 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:06:00,576 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:06:00,589 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:06:00,596 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:06:00,596 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:06:00,596 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:06:21,810 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:06:22,227 [Worker-105: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:06:23,057 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:06:23,057 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:06:23,059 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:06:23,059 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:06:23,061 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:06:23,061 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:06:23,061 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:09:07,531 [Worker-112: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:09:07,658 [Worker-106: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:09:07,961 [Worker-112: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:09:09,052 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:09:09,052 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:09:09,055 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:09:09,076 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:09:09,079 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:09:09,079 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:09:09,079 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:09:10,682 [Worker-101: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:09:10,911 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:09:10,911 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:09:10,915 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:09:10,931 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:09:10,941 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:09:10,941 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:09:10,941 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:09:27,980 [Worker-106: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:09:28,517 [Worker-106: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:09:29,076 [Worker-106: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:11:18,804 [Worker-119: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:11:19,199 [Worker-119: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:11:20,104 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:11:20,104 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:11:20,106 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:11:20,106 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:11:20,108 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:11:20,108 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:11:20,108 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:11:35,902 [Worker-119: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:11:36,385 [Worker-115: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:11:36,837 [Worker-115: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:11:37,760 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:11:37,760 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:11:37,763 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:11:37,776 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:11:37,779 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:11:37,779 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:11:37,779 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:11:58,342 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:11:58,476 [Worker-118: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:11:58,803 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:11:59,953 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:11:59,953 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:11:59,957 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:11:59,976 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:11:59,980 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:11:59,980 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:11:59,980 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:12:00,683 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:12:01,121 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:12:01,673 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:12:02,207 [Worker-119: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:15:40,121 [Worker-125: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:15:40,588 [Worker-125: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:15:41,545 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:41,545 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:41,547 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:15:41,548 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:15:41,550 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:41,551 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:41,551 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:15:42,998 [Worker-124: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:15:43,542 [Worker-124: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.4.3/spring-boot-starter-actuator-2.4.3-sources.jar
+2021-07-13 11:15:43,675 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:43,675 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:43,676 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:15:43,689 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:15:43,696 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:43,696 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:43,696 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:15:43,701 [Worker-124: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.4.3/spring-boot-starter-actuator-2.4.3-sources.jar
+2021-07-13 11:15:43,728 [Worker-124: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-actuator:2.4.3
+2021-07-13 11:15:44,787 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:44,787 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:44,788 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:15:44,788 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:15:44,789 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:44,789 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:44,789 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:15:56,248 [Worker-125: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:15:56,668 [Worker-125: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:15:57,490 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:57,491 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:57,495 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:15:57,495 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:15:57,497 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:57,498 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:57,498 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:15:59,533 [Worker-125: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:15:59,616 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:59,617 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:59,618 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:15:59,627 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:15:59,633 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:15:59,633 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:15:59,633 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:16:08,310 [Worker-124: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:16:08,737 [Worker-124: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:16:09,577 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:16:09,578 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:16:09,580 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:16:09,580 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:16:09,582 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:16:09,582 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:16:09,582 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:17:10,694 [Worker-127: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prueba.microservicios.app.clientes:microservicios-clientes:0.0.1-SNAPSHOT @ C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\pom.xml.
+2021-07-13 11:17:10,784 [Worker-126: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:17:11,163 [Worker-127: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:17:12,149 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:17:12,150 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:17:12,152 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:17:12,167 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-07-13 11:17:12,170 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:17:12,170 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:17:12,170 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:17:24,497 [Worker-127: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier  to /microservicios-foto/target/classes
+2021-07-13 11:17:24,705 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:17:24,705 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:17:24,707 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-13 11:17:24,744 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-07-13 11:17:24,747 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:17:24,747 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:17:24,747 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Juan.Pinzon\Desktop\Curso Microservicios\workspace\microservicios-clientes\src\test\resources
+2021-07-13 11:17:30,934 [Worker-126: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:17:31,513 [Worker-126: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:17:32,079 [Worker-126: Launching microservicios-clientes - MicroserviciosClientesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicios-foto: com.prueba.microservicios.app.foto:microservicios-foto:0.0.1-SNAPSHOT with classifier null to /microservicios-foto/target/classes
+2021-07-13 11:20:21,936 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-13 11:20:21,937 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-13 11:20:21,937 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

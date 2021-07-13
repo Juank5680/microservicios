@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.prueba.microservicios.app.foto.models.entity.Foto;
 
-@FeignClient(name = "microservicio-foto")
+@FeignClient(name = "microservicio-foto", fallback = FotoHystrixFallback.class)
 public interface FotoFeign {
 
 	@GetMapping("/{id}")
