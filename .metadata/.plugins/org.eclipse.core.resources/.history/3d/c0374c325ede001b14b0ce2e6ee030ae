@@ -1,5 +1,0 @@
-package com.prueba.microservicios.app.clientes.advice;
-
-public class ErrorMessage {
-
-}

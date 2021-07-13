@@ -4,9 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Component;
 
 import com.prueba.microservicios.app.foto.models.entity.Foto;
 
+@Component
 public class FotoHystrixFallback implements FotoFeign{
 
 	@Override
