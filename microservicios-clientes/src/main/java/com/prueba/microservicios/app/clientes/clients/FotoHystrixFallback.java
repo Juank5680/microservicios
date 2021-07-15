@@ -25,7 +25,7 @@ public class FotoHystrixFallback implements FotoFeign{
 
 	@Override
 	public ResponseEntity<Iterable<Foto>> obtenerFotosPorListaIds(List<String> fotosId) {
-		Foto foto = Foto.builder().id(null).datosBase64("Error obtenido las fotos").build();
+		Foto foto = Foto.builder().id(null).datosBase64("Error obteniendo las fotos").build();
 		List<Foto> fotos = new ArrayList<>();
 		fotos.add(foto);
 		return ResponseEntity.ok(fotos);

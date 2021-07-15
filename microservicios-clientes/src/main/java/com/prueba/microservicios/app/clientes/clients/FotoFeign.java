@@ -10,26 +10,30 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+//import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import com.prueba.microservicios.app.foto.models.entity.Foto;
 
 @FeignClient(name = "microservicio-foto", fallback = FotoHystrixFallback.class)
+//@RequestMapping("/fotos")
 public interface FotoFeign {
+	
+	static final String PREFIJO_URL = "/fotos";
 
-	@GetMapping("/{id}")
+	@GetMapping(PREFIJO_URL + "/{id}")
 	public ResponseEntity<Foto> obtenerFotoPorId(@PathVariable String id);
 	
-	@PostMapping
+	@PostMapping(PREFIJO_URL)
 	public ResponseEntity<Foto> crear(@RequestBody Foto foto);
 	
-	@PutMapping
+	@PutMapping(PREFIJO_URL)
 	public ResponseEntity<Foto> actualizar(@RequestBody Foto foto);
 	
-	@DeleteMapping("/{id}")
+	@DeleteMapping(PREFIJO_URL + "/{id}")
 	public ResponseEntity<Foto> eliminar(@PathVariable String id);
 	
-	@GetMapping("/lista-por-ids")
+	@GetMapping(PREFIJO_URL + "/lista-por-ids")
 	public ResponseEntity<Iterable<Foto>> obtenerFotosPorListaIds(@RequestParam List<String> fotosId);
 
 }
