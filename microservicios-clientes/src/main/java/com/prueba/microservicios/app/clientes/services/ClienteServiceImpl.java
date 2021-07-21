@@ -13,9 +13,11 @@ import com.prueba.microservicios.app.clientes.models.entity.Cliente;
 import com.prueba.microservicios.app.clientes.models.repository.ClienteRepository;
 import com.prueba.microservicios.app.foto.models.entity.Foto;
 
+import lombok.Data;
 import lombok.RequiredArgsConstructor;
 
 @Service
+@Data
 @RequiredArgsConstructor
 public class ClienteServiceImpl implements ClienteService {
 

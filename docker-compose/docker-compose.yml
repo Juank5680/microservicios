@@ -1,0 +1,80 @@
+version: '3.7'
+services:
+    config-server:
+        image: config-server:v1
+        ports:
+            - "8888:8888"
+        restart: always
+        networks:
+            - springcloud
+    eureka-server:
+        image: eureka-server:v1
+        ports:
+            - "8761:8761"
+        restart: always
+        networks:
+            - springcloud
+    admin-service:
+        image: admin-service:v1
+        ports:
+            - "8086:8086"
+        restart: always
+        networks:
+            - springcloud
+    microservicios-mysql8:
+        image: mysql:8
+        ports:
+            - "3307:3306"
+        restart: always
+        networks:
+            - springcloud
+        environment: 
+            MYSQL_DATABASE: db_microservicios_clientes
+            MYSQL_ROOT_PASSWORD: 12345
+    microservicios-clientes:
+        image: microservicios-clientes:v1
+        ports:
+            - "8002:8002"
+        restart: always
+        networks:
+            - springcloud
+        depends_on: 
+            - config-server
+            - eureka-server
+            - admin-service
+            - microservicios-mysql8
+            - microservicios-foto
+    microservicios-mongo:
+        image: mongo:latest
+        ports:
+            - "27017:27017"
+        restart: always
+        networks:
+            - springcloud
+        environment: 
+            MONGO_INITDB_DATABASE: db_microservicios_fotos
+    microservicios-foto:
+        image: microservicios-foto:v1
+        ports:
+            - "8001:8001"
+        restart: always
+        networks:
+            - springcloud
+        depends_on: 
+            - config-server
+            - eureka-server
+            - admin-service
+            - microservicios-mongo
+    gateway:
+        image: gateway:v1
+        ports:
+            - "8090:8090"
+        restart: always
+        networks:
+            - springcloud
+        depends_on: 
+            - eureka-server
+            - microservicios-clientes
+            - microservicios-foto
+networks:
+    springcloud:
