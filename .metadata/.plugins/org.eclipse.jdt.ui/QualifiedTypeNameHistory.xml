@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="java.util.Base64"/>
     <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
     <fullyQualifiedTypeName name="com.prueba.microservicios.app.foto.services.FotoService"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
@@ -60,4 +58,6 @@
     <fullyQualifiedTypeName name="springfox.documentation.spring.web.plugins.Docket"/>
     <fullyQualifiedTypeName name="springfox.documentation.builders.RequestHandlerSelectors"/>
     <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.EnableAutoConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
 </qualifiedTypeNameHistroy>

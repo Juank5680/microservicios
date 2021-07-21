@@ -3,6 +3,14 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+
+	<repositories>
+		<repository>
+			<id>sonatype-snapshots</id>
+			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
+		</repository>
+	</repositories>
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
@@ -23,11 +31,13 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
+		 
 		<dependency>
 			<groupId>com.prueba.microservicios.app.foto</groupId>
 			<artifactId>microservicios-foto</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-validation</artifactId>
@@ -54,10 +64,6 @@
 			<scope>test</scope>
 		</dependency>
 
-
-		<!-- <dependency> <groupId>org.springframework.cloud</groupId> <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId> 
-			</dependency> -->
-
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
@@ -83,9 +89,6 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-bootstrap</artifactId>
 		</dependency>
-
-		<!-- <dependency> <groupId>com.netflix.hystrix</groupId> <artifactId>hystrix-core</artifactId> 
-			<version>1.5.3-rc.2</version> </dependency> -->
 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -121,7 +124,6 @@
 			<artifactId>spring-cloud-starter-sleuth</artifactId>
 		</dependency>
 
-
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger2</artifactId>
@@ -139,12 +141,12 @@
 			<artifactId>guava</artifactId>
 			<version>20.0</version>
 		</dependency>
-		
-		 <dependency>
-        <groupId>org.axonframework</groupId>
-        <artifactId>axon-spring-boot-starter</artifactId>
-        <version>3.4</version>
-    </dependency>
+
+		<dependency>
+			<groupId>org.axonframework</groupId>
+			<artifactId>axon-spring-boot-starter</artifactId>
+			<version>3.4</version>
+		</dependency>
 
 	</dependencies>
 

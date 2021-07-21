@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 //import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.prueba.microservicios.app.foto.models.entity.Foto;
+import com.prueba.microservicios.app.foto.models.entity.*;
 
 @FeignClient(name = "microservicio-foto", fallback = FotoHystrixFallback.class)
 //@RequestMapping("/fotos")

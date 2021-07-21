@@ -6,7 +6,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.PositiveOrZero;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.prueba.microservicios.app.foto.models.entity.Foto;
+import com.prueba.microservicios.app.foto.models.entity.*;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
